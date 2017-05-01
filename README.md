@@ -2,7 +2,7 @@
 # Assignment using: 
 - Windows 10
 - R Studio 0.99
-- R 3.2.3
+- M.R.O 3.2
 - Weka 3.8
 
 # Tasks:
